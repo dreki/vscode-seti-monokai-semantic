@@ -2,10 +2,11 @@
   "name": "seti-monokai-semantic",
   "displayName": "Seti Monokai Semantic",
   "description": "A theme based on Seti Monokai: Original, with some tweaks and semantic highlighting.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.73.0"
   },
+  "license": "CC-BY-SA-4.0",
   "categories": [
     "Themes"
   ],
